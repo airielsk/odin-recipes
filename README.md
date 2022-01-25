@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first time using html! The skills I have demonstrated are using ordered lists, unordered lists, and changing the header sizes, emphasizing and bolding. This project has also helped me remember the boilerplate.
